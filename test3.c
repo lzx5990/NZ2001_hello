@@ -52,3 +52,4 @@ int main(int argc, char *argv[])
 	led_set(argv[1],argv[2]);
 	return 0;	
 }
+hello world
